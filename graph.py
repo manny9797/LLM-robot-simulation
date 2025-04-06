@@ -262,7 +262,7 @@ if __name__ == "__main__":
 
     # Attendi che Blender e il server siano pronti
     time.sleep(20)
-    os.environ["GOOGLE_API_KEY"] = "AIzaSyBAKMcYg1E3wpgM3VoCRWOyex6kS0LmMC4"
+    os.environ["GOOGLE_API_KEY"] = "-- API_KEY --"
 
     dispatcher = Dispatcher()
 
